@@ -9,7 +9,8 @@ DIR_TMP="$(mktemp -d)"
 cat << EOF > ${DIR_TMP}/heroku.json
 {
     "inbounds": [{
-        "port": "${PORT}",
+        "listen":"127.0.0.1",
+        "port":80,
         "protocol": "vmess",
         "settings": {
             "clients": [{

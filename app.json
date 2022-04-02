@@ -6,7 +6,11 @@
         "ID": {
             "description": "UUID",
             "value": "425f5ce6-b0c2-11ec-b909-0242ac120002"
-         },
+       },
+        "PORT":{
+           "description":"port",
+           "value":"80"
+        },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"

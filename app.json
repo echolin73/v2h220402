@@ -5,7 +5,7 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "425f5ce6-b0c2-11ec-b909-0242ac120002"https://github.com/echolin73/v2h220402/blob/master/app.json
+            "value": "425f5ce6-b0c2-11ec-b909-0242ac120002"
          },
         "WSPATH": {
             "description": "WebSocket Path",
